@@ -11,8 +11,11 @@ The sensor data is processed using linear regression, allowing the system to est
 ![Blok Diagram](Assets/IMG_1.jpg)
 
 # Design Blynk
-> Mobile
+### Mobile
 ![Blok Diagram](Assets/IMG_2.jpg)
+### Dekstop
+![Blok Diagram](Assets/IMG_5.png)
+
 
 # Documentation
 ![Blok Diagram](Assets/IMG_3.jpg)
